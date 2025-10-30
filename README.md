@@ -1,8 +1,6 @@
 # FinAI-Paper
 A collection of research papers and resources on AI/ML and NLP applications in the finance domain.
 
----
-
 ## Contents
 - [Surveys](#surveys)
 - [FinNLP](#finnlp)
@@ -17,20 +15,15 @@ A collection of research papers and resources on AI/ML and NLP applications in t
 - [Datasets](#datasets)
 - [Opensources](#opensources)
 - [Others](#others)
----
 
 ## Surveys
 - Paper Title. Author et al. Conference or Journal + Year. [Paper Link]
-
----
 
 ## FinNLP
 
 ### LLMs
 
 ### Agents
-
----
 
 ## FinAI
 
@@ -42,19 +35,11 @@ A collection of research papers and resources on AI/ML and NLP applications in t
 
 ### Derivatives Pricing
 
----
-
 ## Books & Courses
-
----
 
 ## Datasets
 
----
-
 ## Opensources
-
----
 
 ## Others
 - [Awesome AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance) - A curated list of awesome LLMs & deep learning strategies & tools in financial market.
